@@ -2,3 +2,6 @@
 *.tfstate.backup
 .terraform
 *.iml
+./miguel/single_server/.terraform
+./miguel/single_server/*.tfstate
+./miguel/single_server/*.tfstate.backup
