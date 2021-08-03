@@ -2,6 +2,11 @@
 *.tfstate.backup
 .terraform
 *.iml
-./miguel/single_server/.terraform
-./miguel/single_server/*.tfstate
-./miguel/single_server/*.tfstate.backup
+miguel/single_server/.terraform
+miguel/single_server/*.tfstate
+miguel/single_server/*.tfstate.backup
+miguel/single_server/.terraform.lock.hcl
+miguel/web_server/.terraform
+miguel/web_server/*.tfstate
+miguel/web_server/*.tfstate.backup
+miguel/web_server/.terraform.lock.hcl
