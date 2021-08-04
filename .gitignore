@@ -10,3 +10,7 @@ miguel/web_server/.terraform
 miguel/web_server/*.tfstate
 miguel/web_server/*.tfstate.backup
 miguel/web_server/.terraform.lock.hcl
+miguel/webserver-cluster/.terraform
+miguel/webserver-cluster/*.tfstate
+miguel/webserver-cluster/*.tfstate.backup
+miguel/webserver-cluster/.terraform.lock.hcl
