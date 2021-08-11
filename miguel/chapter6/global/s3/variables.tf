@@ -7,5 +7,5 @@ variable "bucket_name" {
 variable "table_name" {
   description = "The name of the DynamoDB table. Must be unique in this AWS account."
   type        = string
-  default     = "miguel_terraform_locks"
+  default     = "tf-serverless-jenkins-lock"
 }
